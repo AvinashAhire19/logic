@@ -62,6 +62,9 @@ switch (grade) {
  
     case 'F': document.write("Failed<br />");
     break;
+    
+    case 'F': document.write("Failed<br />");
+    break;
  
     default:  document.write("Unknown grade<br />")
  }
